@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkamag)](https://github.com/ryo-ma/github-profile-trophy)
-
 **tkamag/tkamag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,6 +46,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkamag)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
