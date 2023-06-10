@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=aws, python, bash, cassandra, devto, docker, latex, mysql, postgres, sqlite, tensorflow, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
