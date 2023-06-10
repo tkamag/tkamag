@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkamag)](https://github.com/tkamag/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkamag&row=1&column=10)](https://github.com/tkamag/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
