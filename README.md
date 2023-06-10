@@ -10,6 +10,7 @@
 
 
 ## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,py,bash,cassandra,devto,docker,latex,mysql,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -55,5 +56,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My Skills](https://skillicons.dev/icons?i=aws,py,bash,cassandra,devto,docker,latex,mysql,postgres,sqlite,tensorflow,vscode)](https://skillicons.dev)
