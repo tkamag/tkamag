@@ -10,7 +10,8 @@ Here are some ideas to get you started:
     *  ``AWS Glue``
     *  ``Apache Airflow``
     *  ``AWS CloudQuest``
-    *  * AWS
+    *  * ``AWS Cloud Quest: Cloud Practitioner``
+       * ``AWS Cloud Quest: Solutions Architect``
 
 
 -`` 🌱 I’m currently learning ...
