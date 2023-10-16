@@ -9,6 +9,8 @@ Here are some ideas to get you started:
     *  ``AWS Redshift``
     *  ``AWS Glue``
     *  ``Apache Airflow``
+    *  ``AWS CloudQuest``
+    *  * AWS
 
 
 -`` 🌱 I’m currently learning ...
