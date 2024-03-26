@@ -13,7 +13,7 @@ Here are some ideas to get you started:
        * ``AWS Cloud Quest: Cloud Practitioner``
        * ``AWS Cloud Quest: Solutions Architect``
        * ``AWS Cloud Quest: Data Analytics``
-       * ``AWS Cloud Quest: Machine Learning (On my way)``
+       * ``AWS Cloud Quest: Machine Learning ``
 
 
 -`` 🌱 I’m currently learning ...
